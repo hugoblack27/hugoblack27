@@ -59,3 +59,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+<img src="https://raw.githubusercontent.com/hugoblack27/hugoblack27/output/snake.svg" alt="Snake animation" />
+
+###
