@@ -18,11 +18,11 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Olá eu sou Hugo Henrique, estou me especializando para virar um Dev.jr  <br><br>- 🔭 Estou a procura de um Trabalho como dev junior em front-end <br>- 📚 Estou estudando Desenvolvimento de Sistemas e serei um futuro Engenheiro de Software pela UNISA ...<br>- ⚡ No meu tempo Livre eu gosto de criar projetos para aprimorar meu conhecimento que estou absorvendo no meu curso.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagem e ferramentas</h3>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Meus Status :</h3>
 
 ###
 
